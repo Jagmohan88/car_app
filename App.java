@@ -7,5 +7,5 @@ hi this is another github file change
 
 hi conflick checking done by Jagan
 
-hi conflick checking is in progress
+hi conflick checking is in resolved
 
