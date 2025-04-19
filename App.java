@@ -7,5 +7,7 @@ hi this is another github file change
 
 hi conflick checking done by Jagan
 
-hi conflick checking is in progress
+hi conflick checking is resolved and chnages done in txt
+
+hi again the conflict changes in the local file
 
