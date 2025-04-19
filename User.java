@@ -6,7 +6,14 @@ public class User{
 
  public void m3{
  }
+
  public void m2{
 
  }
 }
+=======
+
+ public void m4{
+ }
+}
+
